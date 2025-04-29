@@ -1,5 +1,6 @@
 ## DEVELOPED BY : EZHILARASI N
 ## REGISTER NUMBER : 212224040088
+## DATE : 29-04-2025
 #  Mean and variance of a discrete  distribution
 
 
