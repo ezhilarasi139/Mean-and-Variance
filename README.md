@@ -1,4 +1,4 @@
-#  EX 1 : Mean and variance of a discrete  distribution
+#  Ex 1 : Mean and variance of a discrete  distribution
 ## Date : 04.03.2025
 # Aim : 
 
