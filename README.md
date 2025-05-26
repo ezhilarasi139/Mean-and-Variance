@@ -1,15 +1,8 @@
-## DEVELOPED BY : EZHILARASI N 
-## REGISTER NUMBER : 212224040088
-## DEPARTMENT : B.E.(CSE)
-## DATE : 29-04-2025
-#  Mean and variance of a discrete  distribution
-
-
-
+#  EX 1 : Mean and variance of a discrete  distribution
+## Date : 04.03.2025
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
-
 
 # Software required :  
 
